@@ -17,7 +17,7 @@ const data = {
       name: "Digemart Decentralized E-store",
       url: "http://digemart.com",
       img: "/projects/digemart.jpg",
-      tech: ["REACT",'NEXTJS', "CSS", "GIT","LARAVEL", "PHP", "WEB 3"],
+      tech: ["REACT",'NEXTJS', "CSS", "GIT","LARAVEL", "PHP"],
     },
     {
       name: "Babiesworld NFT Website",
