@@ -14,14 +14,14 @@ const data = {
   facebook: null,
   projects : [
     {
-      name: "Avetrix Electrical/Automation Company Website",
-      url: "http://avetrix.com",
-      img: "/projects/avetrix.png",
-      tech: ["REACT",'NEXTJS', "CSS", "GIT","PHP"],
+      name: "Digemart Decentralized E-store",
+      url: "http://digemart.com",
+      img: "/projects/digemart.jpg",
+      tech: ["REACT",'NEXTJS', "CSS", "GIT","LARAVEL", "PHP", "WEB 3"],
     },
     {
       name: "Babiesworld NFT Website",
-      url: "https://babiesworldnft.com/",
+      url: "https://babiesworld.netlify.app/",
       img: "/projects/bw.png",
       tech: ["REACT",'NEXTJS', "CSS", "GIT", "WEB 3"],
     },
