@@ -1,8 +1,8 @@
 const data = {
   sitename: 'Iniodu Emmanuel | Developer Portfolio',
   name : 'Iniodu Emmanuel',
-  tagline: "i am a front-end developer with experience in implementing responsive websites from concept, layout through deployment with over 2 years of experience, and skilled at writing well-designed and efficient code and also eager to take on more complex problems while maximizing user efficiency",
-  description : "Front-end developer with experience in implementing responsive websites from concept, layout through deployment, and skilled at writing well-designed and efficient code and also eager to take on more complex problems while maximizing user efficiency",
+  tagline: "i am a fullstack developer with experience in implementing responsive websites from concept, layout through deployment with over 2 years of experience, and skilled at writing well-designed and efficient code and also eager to take on more complex problems while maximizing user efficiency",
+  description : "Fullstack developer with experience in implementing responsive websites from concept, layout through deployment, and skilled at writing well-designed and efficient code and also eager to take on more complex problems while maximizing user efficiency",
   image : null,
   email :'iaminiodu@gmail.com',
   phone: '+234 817 755 2052',
