@@ -20,6 +20,12 @@ const data = {
       tech: ["REACT",'NEXTJS', "CSS", "GIT","LARAVEL", "PHP"],
     },
     {
+      name: "Adomlabs Agency website",
+      url: "https://adomlabs-preview.netlify.app/",
+      img: "/projects/adomlabs.png",
+      tech: ["REACT",'NEXTJS', "CSS", "GIT", "PHP"],
+    },
+    {
       name: "Babiesworld NFT Website",
       url: "https://babiesworld.netlify.app/",
       img: "/projects/bw.png",
